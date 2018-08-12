@@ -20,5 +20,5 @@ string === string.toUpperCase() {
 }
 function sayHiToGrandma(string)
 string === string.mixedCase {
-  return "I love you too."
+  return "I love you, too."
 }
