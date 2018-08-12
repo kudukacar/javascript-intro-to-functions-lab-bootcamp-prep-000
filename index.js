@@ -14,6 +14,11 @@ function sayHiToGrandma(string)
 string === string.toLowerCase() {
   return "I can\'t hear you Grandma!"
 }
+function sayHiToGrandma(string)
 string === string.toUpperCase() {
-  return 
+  return "YES INDEED!"
+}
+function sayHiToGrandma(string)
+string === string.mixedCase {
+  return ""
 }
